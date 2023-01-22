@@ -16,7 +16,7 @@ spec:
         # api: external
     spec:
       containers:
-      - image: germanho112/udagram-frontend:latest
+      - image: germanho112/udagram-frontend:v6
         name: frontend
         imagePullPolicy: Always
         resources:
